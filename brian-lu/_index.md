@@ -6,12 +6,13 @@ title: Brian Lu
 superuser: false
 
 # Role/position
-role: B.S., EEx96
+role: B.S., join Navfac Pacific
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate
+- Alumni
+- Class of 2021
 
 # Organizations/Affiliations.
 organizations:

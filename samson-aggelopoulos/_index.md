@@ -7,11 +7,12 @@ superuser: false
 
 # User group
 user_groups:
-- Undergraduate
+- Alumni
+- Class of 2021
 
 # Role/position
 
-role: B.S., EEx96
+role: B.S., join Hawaiian Telcom
 
 # Organizations/Affiliations.
 organizations:

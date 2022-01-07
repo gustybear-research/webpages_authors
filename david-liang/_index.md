@@ -6,12 +6,11 @@ title: David Liang
 superuser: false
 
 # Role/position
-role: M.S.
+role: M.S. Collaborator
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate
 - Collaborator
 
 # Organizations/Affiliations.

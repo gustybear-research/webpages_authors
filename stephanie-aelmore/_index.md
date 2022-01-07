@@ -6,11 +6,11 @@ title: Stephanie Aelmore
 superuser: false
 
 # Role/position
-role: B.S., EEx96
+role: B.S., Collaborator
 
 # User group
 user_groups:
-- Undergraduate
+- Collaborator
 
 # Organizations/Affiliations.
 organizations:

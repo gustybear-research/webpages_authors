@@ -79,9 +79,9 @@ social:
 #  link: mailto:yao.zheng@hawaii.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: mailto:yingfei@hawaii.edu
+#email:
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 

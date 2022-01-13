@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aaron Ohta
+title: Yanjun Pan
 
 # Is this the primary user of the site?
 superuser: false

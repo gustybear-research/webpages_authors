@@ -36,10 +36,10 @@ education:
   courses:
   - course: Ph.D. in Electrical and Computer Engineering
     institution: University of Arizona
-    year: 2008
+    year: 2021
   - course: M.S. in Electrical and Computer Engineering
     institution: University of Arizona
-    year: 2004
+    year: 2018
   - course: B.S. in Information Engineering
     institution: Nanjing University of Aeronautics and Astronautics
     year: 2016

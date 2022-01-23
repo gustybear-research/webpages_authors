@@ -1,19 +1,17 @@
 ---
 # Display name
-title: Willy Chang
+title: Jannatun Noor Sameera
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: B.S. OGS, continue for M.S.
+role: Ph.D., TA of EE260
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
-- Graduate
-- Class of 2021
+- Class Staff
 
 # Organizations/Affiliations.
 organizations:
@@ -27,16 +25,18 @@ organizations:
 
 # List your academic interest
 interests:
-- Machine Learning & AI
-- Image Processing
-- Web Development
+- Machine Learning
+- Signal Processing
 
 # List your qualifications (such as academic degrees).
 education:
   courses:
-  - course: B.S. in Computer Engineering
-    institution: University of Hawaiʻi at Mānoa
-    year: 2021
+  - course: B.S. in Electrical and Electronic Engineering
+    institution: University of Dhaka
+    year: 2018
+  - course: M.S. in Electrical and Electronic Engineering
+    institution: University of Dhaka
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,15 +44,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/willychang/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/willychangx
 - icon: envelope
   icon_pack: fa
-  link: mailto:changw@hawaii.edu
+  link: mailto:jsameera@hawaii.edu
 
 # Enter email for Contact widget or Gravatar
 email: ""

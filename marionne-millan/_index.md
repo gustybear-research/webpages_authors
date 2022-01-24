@@ -9,7 +9,6 @@ superuser: false
 
 user_groups:
 - Graduate
-- Class Staff
 
 # Role/position
 role: M.S., TA, accepted an offer from Raytheon Technologies

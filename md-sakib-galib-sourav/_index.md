@@ -1,16 +1,17 @@
 ---
 # Display name
-title: Matthew Sahara
+title: Md Sakib Galib Sourav
 
 # Is this the primary user of the site?
 superuser: false
 
+# Role/position
+role: M.S., TA of EE260
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-
-# Role/position
-role: M.S., Employee of Burns & McDonnell
+- Class Staff
 
 # Organizations/Affiliations.
 organizations:
@@ -19,18 +20,20 @@ organizations:
 - name: Department of Electrical Engineering
   url: http://www.ee.hawaii.edu/
 
+# Short bio (displayed in user profile at end of posts)
+# bio: I am interested in machine learning, image processing, and web development.
+
 # List your academic interest
 interests:
-- Power Systems
-- Network Security
-- Wireless Communications
-- Microwave Electronics
+- Image Processing
+- Computer Vision
+- Deep Learning
 
 # List your qualifications (such as academic degrees).
 education:
   courses:
-  - course: B.S. Student in Electrical Engineering
-    institution: University of Hawaiʻi at Mānoa
+  - course: B.S. in Electrical and Electronic Engineering
+    institution: Khulna University of Engineering & Technology
     year: 2020
 
 # Social/Academic Networking
@@ -39,17 +42,10 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/matthew-sahara/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/saharama
 - icon: envelope
   icon_pack: fa
-  link: mailto:saharama@hawaii.edu
+  link: mailto:msgs@hawaii.edu
 
 # Enter email for Contact widget or Gravatar
 email: ""
-
 ---

@@ -6,7 +6,7 @@ title: Willy Chang
 superuser: false
 
 # Role/position
-role: B.S. OGS, continue for M.S.
+role: B.S. OGS, continue for M.S., GRA
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

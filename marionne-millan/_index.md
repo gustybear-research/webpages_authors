@@ -11,7 +11,7 @@ user_groups:
 - Graduate
 
 # Role/position
-role: M.S., TA, accepted an offer from Raytheon Technologies
+role: M.S., accepted an offer from Raytheon Technologies
 
 # Organizations/Affiliations.
 organizations:

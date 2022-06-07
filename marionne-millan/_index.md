@@ -8,7 +8,8 @@ superuser: false
 # User group
 
 user_groups:
-- Graduate
+- Alumni
+- Class of 2021
 
 # Role/position
 role: M.S., accepted an offer from Raytheon Technologies

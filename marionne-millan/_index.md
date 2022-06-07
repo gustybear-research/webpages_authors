@@ -9,10 +9,10 @@ superuser: false
 
 user_groups:
 - Alumni
-- Class of 2021
+- Class of 2022
 
 # Role/position
-role: M.S., accepted an offer from Raytheon Technologies
+role: M.S., join Raytheon Technologies
 
 # Organizations/Affiliations.
 organizations:
@@ -36,6 +36,9 @@ education:
   - course: B.S. in Computer Engineering
     institution: University of Hawaiʻi at Mānoa
     year: 2020
+  - course: M.S. in Computer Engineering
+    institution: University of Hawaiʻi at Mānoa
+    year: 2022
 
 # Social/Academic Networking
 

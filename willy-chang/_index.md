@@ -6,14 +6,14 @@ title: Willy Chang
 superuser: false
 
 # Role/position
-role: B.S. OGS, continue for M.S., GRA
+role: B.S. OGS, M.S., join Microsoft Corporation
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
 - Graduate
-- Class of 2021
+- Class of 2022
 
 # Organizations/Affiliations.
 organizations:

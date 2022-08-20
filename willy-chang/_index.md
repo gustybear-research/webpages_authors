@@ -12,7 +12,6 @@ role: B.S. OGS, M.S., join Microsoft Corporation
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
-- Graduate
 - Class of 2022
 
 # Organizations/Affiliations.

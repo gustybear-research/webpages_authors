@@ -6,7 +6,7 @@ title: Yao Zheng
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -81,4 +81,4 @@ email: mailto:yao.zheng@hawaii.edu
 highlight_name: true
 ---
 
-I am an Assistant Professor at Department of Electrical Engineering, University of Hawaiʻi at Mānoa. My research interests mainly focus on wireless communication, wireless sensing, and wireless security.
+I am an Associate Professor at Department of Electrical Engineering, University of Hawaiʻi at Mānoa. My research interests mainly focus on wireless communication, wireless sensing, and wireless security.

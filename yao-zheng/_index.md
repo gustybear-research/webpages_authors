@@ -25,11 +25,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests mainly focus on wireless communication and cybersecurity.
 
-# List your academic interest
-interests:
-- Wireless Comm.
-- Wireless Sensing
-- Wireless Security
+# List your academic professionalism
+professionalism:
+- course: Associate Professor
+    institution: University of Hawaiʻi at Mānoa
+    year: 2023 - present
+- course: Assistant Professor
+    institution: University of Hawaiʻi at Mānoa
+    year: 2017 - 2023
 
 # List your qualifications (such as academic degrees).
 education:

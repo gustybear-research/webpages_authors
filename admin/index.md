@@ -35,7 +35,7 @@ interests:
 # List your qualifications (such as academic degrees).
 education:
   courses:
-  - course: Visiting Scientist
+  - course: Visiting Scientist, Terahertz Integrated Electronics Group, EECS
     institution: Massachusetts Institute of Technology
     year: 2024
   - course: Ph.D. in Computer Science and Applications

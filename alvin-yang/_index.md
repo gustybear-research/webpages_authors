@@ -6,10 +6,11 @@ title: Alvin Yang
 superuser: false
 
 # Role/position
-role: B.S., OGS
+role: B.S., OGS, M.S., GRA
 
 # User group
 user_groups:
+- Graduate
 - Alumni
 - Class of 2020
 

@@ -6,12 +6,13 @@ title: Denny Landika
 superuser: false
 
 # Role/position
-role: M.S.. GRA
+role: M.S.
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate
+- Alumni
+- Class of 2023
 
 # Organizations/Affiliations.
 organizations:

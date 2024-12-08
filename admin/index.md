@@ -3,7 +3,7 @@
 title: Yao Zheng
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Associate Professor
@@ -11,7 +11,6 @@ role: Associate Professor
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Administrator
 - Faculty
 
 # Organizations/Affiliations.
@@ -26,15 +25,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests mainly focus on wireless communication and cybersecurity.
 
-# List your academic interest
+# List your academic interests.
+
 interests:
-- Wireless Comm.
-- Wireless Sensing
-- Wireless Security
+- Wireless comm., sensing, and security
+- Biomedical sensors
+- mmWave/sub-THz radar sensing and integration
 
 # List your qualifications (such as academic degrees).
 education:
   courses:
+  - course: Visiting Scientist
+    institution: Massachusetts Institute of Technology
+    year: 2024
   - course: Ph.D. in Computer Science and Applications
     institution: Virginia Polytechnic Institute and State University
     year: 2016
@@ -82,4 +85,4 @@ email: mailto:yao.zheng@hawaii.edu
 highlight_name: true
 ---
 
-I am an Associate Professor at Department of Electrical Engineering, University of Hawaiʻi at Mānoa. My research interests mainly focus on wireless communication, wireless sensing, and wireless security.
+I am an Associate Professor at Department of Electrical and Computer Engineering, University of Hawaiʻi at Mānoa, a senior member of IEEE, and a honorary graduate of starfleet academy.

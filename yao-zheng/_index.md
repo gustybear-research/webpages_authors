@@ -25,18 +25,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests mainly focus on wireless communication and cybersecurity.
 
-# List your academic professionalism
-professionalism:
-- course: Associate Professor
-    institution: University of Hawaiʻi at Mānoa
-    year: 2023 - present
-- course: Assistant Professor
-    institution: University of Hawaiʻi at Mānoa
-    year: 2017 - 2023
+# List your academic interests.
+
+interests:
+- Wireless comm., sensing, and security
+- Biomedical sensors
+- mmWave/sub-THz radar sensing and integration
 
 # List your qualifications (such as academic degrees).
 education:
   courses:
+  - course: Visiting Scientist
+    institution: Massachusetts Institute of Technology
+    year: 2024
   - course: Ph.D. in Computer Science and Applications
     institution: Virginia Polytechnic Institute and State University
     year: 2016
@@ -84,4 +85,4 @@ email: mailto:yao.zheng@hawaii.edu
 highlight_name: true
 ---
 
-I am an Associate Professor at Department of Electrical Engineering, University of Hawaiʻi at Mānoa. My research interests mainly focus on wireless communication, wireless sensing, and wireless security.
+I am an Associate Professor at Department of Electrical and Computer Engineering, University of Hawaiʻi at Mānoa, a senior member of IEEE, and a honorary graduate of starfleet academy.
